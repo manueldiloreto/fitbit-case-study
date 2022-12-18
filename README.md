@@ -4,7 +4,7 @@ Fitbit is an American consumer electronics and fitness company. It produces wire
 The objective of this case study is to identify and analyze trends in smart device usage to provide high-level recommendations to inform Fitbit's marketing strategy and improve the Fitbit app.
 
 <ul>
-  <li>The dataset is [publicly available on Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)</li>
+  <li>The dataset is <a href="https://www.kaggle.com/datasets/arashnic/fitbit"> publicly available on Kaggle </a></li>
   <li>Conducted data cleaning to perform exploratory data analysis (EDA) and data visualization</li>
   <li>Explored the relationship between different variables using bivariate regressions</li>
   </ul>
